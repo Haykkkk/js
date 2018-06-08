@@ -1,0 +1,21 @@
+*{
+  background: #777;
+}
+footer{
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-around;
+
+}
+footer img{
+  width: 200px;
+  height: 200px;
+}
+#main{
+  width: 600px;
+  height: 400px;
+}
+body div{
+  display: flex;
+  justify-content: center;
+}
